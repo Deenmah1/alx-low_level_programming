@@ -1,7 +1,7 @@
 #include <stdio>
 /**
  * main - print out sizes of data types in C
- *
+ * code by deenmah
  * Return: 0
  */
 int main(void)
