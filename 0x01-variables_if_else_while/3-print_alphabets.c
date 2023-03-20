@@ -10,8 +10,8 @@ int main(void)
 	char lowercase;
 	char UPPERCASE;
 
-	for (lowercase = 'a'; lowercase <= 'z'; lowercase++)
-	for (UPPERCASE = 'A'; UPPERCASE; <= 'Z' UPPERCASE++)
+	for (lowercase = 'a'; lowercase; <= 'z'; lowercase++)
+	for (UPPERCASE = 'A'; UPPERCASE; <= 'Z'; UPPERCASE++)
 		putchar(lowercase);
 	putchar(UPPERCASE);
 	putchar('\n');
