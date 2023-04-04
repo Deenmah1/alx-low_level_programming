@@ -3,7 +3,7 @@
 /**
  * memcpy - write a function that copies memory area
  * @dest: memory where is stored
- * @src: memory wher is copied
+ * @src: memory where is copied
  * @n: number of bytes
  * Return: copied memory with n byted changed
  */
