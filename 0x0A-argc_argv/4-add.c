@@ -19,6 +19,7 @@ int main(int argc, char *argv[])
 	{
 		char *arg = argv[k];
 		int j;
+
 		for (j = 0; arg[j] != '\0'; j++)
 		if (!isdigit(arg[j]))
 		{
